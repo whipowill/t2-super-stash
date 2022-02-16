@@ -9,7 +9,20 @@ I wanted a large shared shash where I could accumilate unique items from the gam
 - Player inventory is unchanged.
 - Pet inventory is unchanged.
 
-Be sure to see how I [organize my stash](https://github.com/whipowill/t2-super-stash/blob/master/STASH.md).
+## Recommendations
+
+Here is how I organize my stash:
+
+- Pages 1-10 - Stuff To Sort Later
+- Pages 11-20 - Sockets
+- Pages 21-30 - Melee Weapons
+- Pages 31-40 - Magic Weapons
+- Pages 41-50 - Guns
+- Pages 51-60 - Berserker Armor
+- Pages 61-70 - Embermage Armor
+- Pages 71-80 - Engineer Armor
+- Pages 81-90 - Outlander Armor
+- Pages 91-100 - Misc Armor
 
 ## Notes
 
